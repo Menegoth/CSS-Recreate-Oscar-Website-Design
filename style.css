@@ -1,0 +1,53 @@
+.navbar {
+    color: white;
+    justify-content: right;
+}
+
+.navbar li {
+    list-style: none;
+    display: inline-block;
+    margin: 1em 2em -1em 0;
+}
+
+h1 {
+    display: inline-block;
+}
+
+.page-heading {
+    border-bottom: solid 2px black;
+}
+
+.menu-bars {
+    font-size: 2em;
+    display: inline-block;
+    position:absolute;
+    right: 1em;
+}
+
+.placeholder-header {
+    width: 100%;
+}
+
+hr {
+    color: red;
+    width: 20%;
+    margin: auto;
+    margin-top: 3em;
+    margin-bottom: 2em;
+    border-style: solid;
+    opacity: 100%;
+}
+
+.affordable-care {
+    width: 60%;
+    margin: auto;
+}
+
+.affordable-care-header, .affordable-care-desc {
+    text-align: center;
+}
+
+.affordable-care-image {
+  margin: auto;
+  width: 100%;
+}
